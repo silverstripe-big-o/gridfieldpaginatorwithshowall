@@ -1,0 +1,16 @@
+{
+	"name": "silverstripe/gridfieldpaginatorwithshowall",
+	"description": "UI controls to disable pagination in a SilverStripe GridField",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "gridfield"],
+	"authors": [
+		{
+			"name": "Normann Lou",
+			"email": "normann@silverstripe.com"
+		}
+	],
+	"require":
+	{
+		"silverstripe/framework": "3.*"
+	}
+}
